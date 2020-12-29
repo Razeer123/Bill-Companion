@@ -1,6 +1,6 @@
 # Bill Companion for iOS 💸
 
-Bill Companion is a very simple iOS app created using SwiftUI framework. It's the first project created when learning with the Hacking with Swift website.
+Bill Companion is a very simple iOS app made using SwiftUI framework. It's the first project created when learning with the Hacking with Swift website.
 The goal of the app is to help the user split the bill when visiting a restaurant - it asks for the total price, number of people and optional tip and
 displays cost of the visit calculated for each person. 
 
